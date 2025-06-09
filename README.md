@@ -1,7 +1,11 @@
 title: This is the link to my domain
 
+link: www.urfootball.space
+
+# Video Explainer Link
+
 link: 
 
-# assignment 2 overview
+## WordPress code 
 
-## Wordpress code 
+### This is the essential code I used to put WordPress on top of my Amazon EC2 web server.
