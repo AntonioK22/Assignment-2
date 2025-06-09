@@ -27,3 +27,4 @@ I used an Amazon EC2 Ubuntu instance as my base and placed the WordPress website
   8. I then unzip the WordPress file labeled as "latest.zip"
   9. Removed the index.html file to replace the default Ubuntu webpage with the WordPress login page
   10. Login and one WordPress on my Ubuntu Amazon EC2 instance
+  11. default WordPress webpage used, issues with connecting to my dashboard 
