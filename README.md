@@ -6,7 +6,7 @@ link: www.urfootball.space
 
 # Video Explainer Link
 
-link: 
+link: https://youtu.be/G_sJFvYqoJE
 
 ## WordPress Integration
 
