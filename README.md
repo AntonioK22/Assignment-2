@@ -17,5 +17,5 @@ I used an Amazon EC2 Ubuntu instance as my base and placed the WordPress website
 ### WordPress Code
 
 - Install Apache2, MariaDB, MySQL
-  1. Installed Apache2 by going to the terminal and inputting <p>sudo apt install apache2<p>
+  1. Installed Apache2 by going to the terminal and inputting "sudo apt install apache2"
   2. Installed MariaDB 
