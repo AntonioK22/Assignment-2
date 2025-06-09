@@ -22,4 +22,8 @@ I used an Amazon EC2 Ubuntu instance as my base and placed the WordPress website
   3. Installed MariaDB for the data service, input in the terminal is "sudo apt install mariadb-server mariadb-client -y".
   4. I obtained MariaDB, and I need a root password. "sudo mysqp_secure_installation" is the input to create a root password.
   5. Installed php because WordPress runs on it, the code being "sudo apt install php php-mysql php-gd php-client php-common -y"
-  6. Opened a new tab and look up "Download WordPress.org" Hover your mouse over the download button, right-click, and click on "copy link address"
+  6. Open a new tab and look up "Download WordPress.org" Hover your mouse over the download button, right-click, and click on "copy link address".
+  7. I installed wget and unzip to help assist me in obtaining WordPress.
+  8. I then unzip the WordPress file labeled as "latest.zip"
+  9. Removed the index.html file to replace the default Ubuntu webpage with the WordPress login page
+  10. Login and one WordPress on my Ubuntu Amazon EC2 instance
